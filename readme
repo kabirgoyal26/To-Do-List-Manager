@@ -1,0 +1,32 @@
+Of course. Here is a summary and description formatted perfectly for a GitHub README.md file.
+
+You should create a file named README.md in the root of your project folder and paste the text below into it. GitHub will automatically display this on your repository's main page.
+
+C++ Command-Line To-Do List Manager 📝
+This is a simple yet robust command-line To-Do List application built in C++. It utilizes a custom-implemented singly linked list to manage tasks, demonstrating core concepts of data structures and Object-Oriented Programming (OOP).
+
+The application allows users to add tasks with a priority, view them in a sorted list, and mark them as complete.
+
+✨ Key Features
+Add Tasks: Add new tasks with a text description and a numerical priority.
+
+Prioritized View: Tasks are automatically sorted and displayed in order of priority (lower numbers are higher priority).
+
+Complete Tasks: Remove tasks from the list by selecting their number.
+
+Memory Safe: Implemented with a focus on proper dynamic memory management to prevent memory leaks.
+
+
+🛠️ Technologies & Concepts
+Language: C++
+
+Core Data Structure: Singly Linked List (implemented from scratch)
+
+Key Concepts:
+
+Object-Oriented Programming (Encapsulation, Abstraction)
+
+Pointers & Dynamic Memory Allocation (new/delete)
+
+Structs & Classes
+
